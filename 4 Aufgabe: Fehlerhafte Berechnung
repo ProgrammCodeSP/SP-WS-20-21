@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+    int main() {
+    cout << "Das Volumen der Kugel mit Radius 1.5 betraegt "
+    << 4 / 3.0 * 1.5 * 1.5 * 1.5 * 3.141592653 << endl;
+    return 0;
+    } 
